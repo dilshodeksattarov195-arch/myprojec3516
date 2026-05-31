@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondync",
+        "uuid": 5316192,
+        "checksum": "ij9v8s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
